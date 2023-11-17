@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled 
+00cdd4e4c772031fe8a7d52d24a3a9841889b7bd refs/remotes/origin/formation_control
+7967cad24b6bde55b4389c2051388fc23b2d9bdc refs/remotes/origin/master
+02f9f08e3ed8814ab7ed77707333aeb08ed59fc8 refs/remotes/origin/master-ne-test
+59f04815ba8321519170a0d1d708c57e23e23bcc refs/remotes/origin/p200-stable
+2c0c946da5a76f5f47092be956f354fde88986fb refs/remotes/origin/px4_longhao
